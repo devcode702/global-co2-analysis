@@ -82,7 +82,7 @@ reports/GLOBAL CO₂ EMISSIONS DASHBOARD.pbix
 
 
 ### 📸 Dashboard Preview
-![Dashboard Preview](reports/dashboard_preview.png)
+![Dashboard Preview](Reports/dashboard_preview.png)
 
 ---
 
